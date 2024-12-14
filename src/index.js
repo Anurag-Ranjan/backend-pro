@@ -3,4 +3,4 @@ import connectDB from "./db/db.js";
 
 dotenv.config({ path: "./env" });
 
-connectDB();
+connectDB().then().catch();
