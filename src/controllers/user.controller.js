@@ -398,4 +398,5 @@ export {
   updateAccountDetails,
   updateAvatar,
   updateCoverImg,
+  selectUserChannel,
 };
